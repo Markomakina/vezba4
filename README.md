@@ -1,0 +1,2 @@
+# vezba4
+vezbanje
